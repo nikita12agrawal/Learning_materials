@@ -1,0 +1,8 @@
+Start a new git repository
+
+refer:
+https://kbroman.org/github_tutorial/pages/init.html
+
+It contains a very good description of how to start a new git repository from scratch
+and also new repo from existing project.
+
