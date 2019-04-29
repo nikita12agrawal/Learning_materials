@@ -1,6 +1,6 @@
+GCOV
 
-use gcov as tool to find coverage
-
+gcov is used as a tool to find coverage
 
 need to add -fprofile-arcs -ftest-coverage in CFLAGS while compiling using gcc.
 
