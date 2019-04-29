@@ -1,0 +1,15 @@
+
+use gcov as tool to find coverage
+
+
+need to add -fprofile-arcs -ftest-coverage in CFLAGS while compiling using gcc.
+
+this will generate gcno files
+
+after succesfull termination of program, gcda and gcov files are generated 
+with the help of which coverage of each files can be find out using this command:
+
+gcov file_name.gcno 
+or
+gcov file_name.c
+
