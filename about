@@ -1,0 +1,6 @@
+
+gcov-coverage testing tool
+
+It can be used to discover untested parts of our program.
+
+It acts as profiling tool that help to analyze our code's performance.
